@@ -82,3 +82,4 @@ class ProduitsController extends Controller
         return response()->json();
     }
 }
+
