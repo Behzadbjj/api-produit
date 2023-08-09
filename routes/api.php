@@ -12,7 +12,7 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
 });
 
 
-Route::apiResource("produits", ProduitsController::class); 
+Route::apiResource("produits", ProduitsController::class);
 
 Route::apiResource("commandes", CommandesController::class); 
 
@@ -62,6 +62,3 @@ Route::apiResource("commandes", CommandesController::class);
 // //Supprimer un commande
 // Route::delete('/commandes/{id}', [CommandesController::class, "supprimerCommande"]);
 // Route::put('/commandes/{id}', [CommandesController::class, "update"]);
-
-
-

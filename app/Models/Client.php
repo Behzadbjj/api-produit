@@ -47,4 +47,8 @@ class Client extends Model
 	{
 		return $this->hasMany(Commande::class, 'id_client');
 	}
+	public function produits()
+	{
+		return $this->hasMany(Produit::class, 'id_client');
+	}
 }
