@@ -1,3 +1,15 @@
+
+#Projet API REST : Système de Gestion de Commandes avec Laravel
+Projet API REST est un système de gestion de commandes robuste développé en collaboration. Utilisant Laravel, nous avons créé des migrations, des modèles Éloquent et des contrôleurs API pour permettre une manipulation efficace des données clients, produits et commandes. Ce projet met en évidence notre expertise dans le développement d'applications Web en utilisant les outils modernes du développement Laravel.
+
+Fonctionnalités
+Gestion des Clients : Création, consultation, mise à jour et suppression de données clients.
+Gestion des Produits : Gestion des informations sur les produits disponibles.
+Gestion des Commandes : Création, consultation, mise à jour et suppression de commandes.
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
